@@ -1,2 +1,2 @@
-# Tiktok-Video-Downloader
-Tiktok-Video-Downloader
+# tik
+TikTok-Video-Downloader
